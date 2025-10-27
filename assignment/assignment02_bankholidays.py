@@ -9,7 +9,7 @@ data = response.json()
 for event in data ["northern-ireland"] ["events"]:
     print (f"{event['title']} on {event ['date']}")
 
-# Source:  PFDA3.1 Class Video (5min 02sec)
+# Source: PFDA3.1 Class Video (5min 02sec)
 # Source: https://www.geeksforgeeks.org/python/python-holidays-library/
 
 
