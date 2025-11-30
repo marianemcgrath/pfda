@@ -23,11 +23,17 @@ This repository is a colourful journey through various data analysis challenges,
 
 📦 PFDA/
 ├── 📓 ASSIGNMENTS/
+
 │ ├── extra_exercise_births.ipynb # 👶 Projections
+
 │ └── assignment02-bankholidays.py 
+
 │ ├── assignment03_pie.ipynb # 🥧 Email charts
+
 │ ├── assignment05_population.ipynb
+
 │ └── assignment06_weather.ipynb  
+
 └── README.md # 📖 This amazing file!
 
 
@@ -63,17 +69,22 @@ git clone https://github.com/marianemcgrath/pfda
 ### 📧 Email Domain Pie
 
 *   **Notebook:** `notebooks/assignment03-pie.ipynb`
+
 *   **Cool Stuff:**
     *   Watch domains battle for the biggest slice 🏆
     *   The most beautiful email distribution chart you've ever seen ✨
+
 *   **Data Source:** [1000 Email Addresses](https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download)
 
 ### 👥 Population Insights
 
 *   **Notebook:** `notebooks/assignment05-population.ipynb`
 *   **Cool Stuff:**
+
     *   **Part 1:** Who's older - men or women? 👩‍🦳👨‍🦳
+
     *   **Part 2:** Zoom in on specific age groups 🎯
+
     *   **Part 3:** Which region has the most interesting gender balance? 🗺️
 
 
