@@ -48,3 +48,5 @@ print ("Bank holidays unique to Northern Ireland:")
 
 # Source: https://stackoverflow.com/questions/6981717/pythonic-way-to-combine-for-loop-and-if-statement
 # Source: https://www.geeksforgeeks.org/python/python-holidays-library/ 
+
+# END

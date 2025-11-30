@@ -5,7 +5,7 @@
 ## Table of Contents🗺️ 
 
 - [ Overview🌟](#-overview)
-- [Project Structure]📁 (#-project-structure)
+- [Project Structure📁] (#-project-structure)
 - [Quick Start⚡ ](#-quick-start)
 - [ Assignment Showcase🎯](#-assignment-showcase)
   1. [Babies & Demographics👶 ](#-babies--demographics)
