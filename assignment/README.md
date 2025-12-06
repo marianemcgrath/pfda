@@ -24,9 +24,9 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 ## In the folder, you will find...
 
-### 🎉 Assignment 1: Bank Holidays
+### 🎉 Assignment: Bank Holidays
 
-**File:** `assignment02_bankholidays.py`
+**File:** `assignment01_bankholidays.py`
 
 **🎯 Objectives:**
 
@@ -38,10 +38,10 @@ This repository contains four distinct data analysis projects demonstrating skil
 *   Retrieves and processes data
 *   Filters unique Northern Ireland holidays
 
-[Go to Assignment 1: Bank Holidays](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment02_bankholidays.py)
+[Go to Assignment: Bank Holidays](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment02_bankholidays.py)
 
 
-### 📧 Assignment 2: Email Domains
+### 📧 Assignment: Email Domains
 
 **Notebook:** `assignment03_pie_redo.ipynb`
 
@@ -61,9 +61,9 @@ This repository contains four distinct data analysis projects demonstrating skil
 *   Data cleaning and preprocessing
 
 
-[Go to Assignment 2: Email Domains](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment03_pie_redo.ipynb)
+[Go to Assignment: Email Domains](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment03_pie_redo.ipynb)
 
-### 👥 Assignment 3: Population Insights
+### 👥 Assignment: Population Insights
 
 **Notebook:** `assignment05-population.ipynb`
 
@@ -88,10 +88,10 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 *   Regional segmentation
 
-[Go to Assignment 3: Population Insights](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment05_population.ipynb)
+[Go to Assignment: Population Insights](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment05_population.ipynb)
 
 
-### 🌤️ Assignment 4: Knock Airport Weather Analysis
+### 🌤️ 4. Knock Airport Weather Analysis
 
 **Notebook:** `assignment05_weather.ipynb`
 
@@ -114,7 +114,7 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 -   Multi-plot visualisation
 
-[Go to Assignment 4: Knock Airport Weather](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment06_weather.ipynb)
+[Go to Assignment: Knock Airport Weather](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment06_weather.ipynb)
 
 
 ## 🛠️ **Technical Stack**
