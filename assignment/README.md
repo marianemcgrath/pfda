@@ -141,17 +141,17 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 **The main sources used were:**
 
-[GeeksforGeeks] (https://www.geeksforgeeks.org/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 [Stack Overflow*](https://stackoverflow.com/)
 
-[W3Schools] (https://www.w3schools.com/)
+[W3Schools](https://www.w3schools.com/)
 
 [Pandas Documentation](https://pandas.pydata.org/docs/)
 
 [Real Python](https://realpython.com/)
 
-[DataCamp] (https://www.datacamp.com/)
+[DataCamp](https://www.datacamp.com/)
 
 All code in the assignment folder has been referenced and including AI prompts when required.
 
