@@ -3,5 +3,4 @@ requests
 pandas
 numpy
 matplotlib
-matplotlib.pyplot
 seaborn
