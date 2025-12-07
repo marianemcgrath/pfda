@@ -60,8 +60,10 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 *   Data cleaning and preprocessing
 
+![Email Domain Pie Chart](plots/email_domain_pie.png)
 
 [Go to Assignment: Email Domains](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment03_pie_redo.ipynb)
+
 
 ### 👥 Assignment: Population Insights
 
@@ -77,8 +79,6 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 🎯 Part 3: Identify region with largest sex-based population difference, focus on specified age group from Part 2, regional comparison across Ireland
 
-![Population Distribution in Ireland by Age and Sex](plots/image.png)
-
 
 #### 📊 **Analytical Methods:**
 
@@ -90,10 +90,12 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 *   Regional segmentation
 
+![Population Distribution in Ireland by Age and Sex](plots/pop_distribution.png)
+
 [Go to Assignment: Population Insights](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment05_population.ipynb)
 
 
-### 🌤️ 4. Knock Airport Weather Analysis
+### 🌤️ Assignment: Knock Airport Weather Analysis
 
 **Notebook:** `assignment05_weather.ipynb`
 
@@ -105,8 +107,6 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 🌐 **Data Source:** [Knock Airport Weather](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv)
 
-![Average Monthly and Yearly Temperature at Knock Airport](plots/averagemonthlytemp.png)
-
 
 #### 📊 Analytical Methods:
 
@@ -117,6 +117,8 @@ This repository contains four distinct data analysis projects demonstrating skil
 -   Rolling statistics calculation
 
 -   Multi-plot visualisation
+
+![Average Monthly and Yearly Temperature at Knock Airport](plots/averagemonthlytemp.png)
 
 [Go to Assignment: Knock Airport Weather](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment06_weather.ipynb)
 
@@ -147,8 +149,7 @@ The main sources used were:
 [DataCamp] (https://www.datacamp.com/)
 
 All code in the assignment folder has been referenced and including AI prompts when required.
-**Population distribution graph was created by the author, using  and beautified with the help of Claude.
-
+**Population distribution graph was created by the author of this project (because I really, wanted to, and used it as my Christmas wish). Using [Stack Overflow](https://stackoverflow.com/questions/63619776/population-pyramid-with-python-and-seaborn_), [Medium](https://maciejtarsa.medium.com/plotting-a-population-pyramid-in-python-52be034968b0), [CodersColumn](https://coderzcolumn.com/tutorials/data-science/population-pyramid-chart-using-matplotlib) and beautified with the help of Claude AI.
 
 ---
 
