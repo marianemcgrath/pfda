@@ -77,6 +77,8 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 🎯 Part 3: Identify region with largest sex-based population difference, focus on specified age group from Part 2, regional comparison across Ireland
 
+![Population Distribution in Ireland by Age and Sex](image.png)
+
 
 #### 📊 **Analytical Methods:**
 
@@ -102,6 +104,8 @@ This repository contains four distinct data analysis projects demonstrating skil
 *   📈 Part 2: Windspeed visualisation (handling missing data), 24-hour rolling average windspeed, daily maximum windspeed, monthly mean of daily maximum windspeeds
 
 🌐 **Data Source:** [Knock Airport Weather](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv)
+
+![Average Monthly and Yearly Temperature at Knock Airport](averagemonthlytemp.png)
 
 
 #### 📊 Analytical Methods:
@@ -133,10 +137,17 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 ## **References:**
 
-All references and prompts (AI) used though this project where noted when pertinent to the information/ topic.
-
 The main sources used were: 
 
+[GeeksforGeeks] (https://www.geeksforgeeks.org/)
+[Stack Overflow*](https://stackoverflow.com/)
+[W3Schools] (https://www.w3schools.com/)
+[Pandas Documentation](https://pandas.pydata.org/docs/)
+[Real Python](https://realpython.com/)
+[DataCamp] (https://www.datacamp.com/)
+
+All code in the assignment folder has been referenced and including AI prompts when required.
+**Population distribution graph was created by the author, using  and beautified with the help of Claude.
 
 
 ---

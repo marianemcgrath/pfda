@@ -1,7 +1,7 @@
 # Bank Holidays in Northern Ireland
 ## Author: Mariane McGrath 
 
-# Task: The program should print out the dates of the bank holidays that happen in northern Ireland.
+# Part 1: A program that prints all bank holidays in Northern Ireland
 
 # Import the requests library to get data from a website
 import requests
@@ -15,15 +15,17 @@ response = requests.get(url)
 # Convert the data into JSON format 
 data = response.json()
 
+
 # Print the bank holidays in Northern Ireland
 # We'll loop through each event, and print date and title
-for event in data ["northern-ireland"] ["events"]:
-    print (f"{event['title']} on {event ['date']}")
+print("All Northern Ireland Bank Holidays (years 2024 - 2028):")
+for event in data["northern-ireland"]["events"]:
+    # Convert date from YYYY-MM-DD to DD-MM-YYYY
+    date_parts = event['date'].split('-')
+    formatted_date = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]}"
+    print(f"{event['title']} on {formatted_date}")
 
-# Source: PFDA3.1 Class Video (5min 02sec)
-# Source: https://www.geeksforgeeks.org/python/python-holidays-library/
-# Source: https://stackoverflow.com/questions/54987115/uk-bank-holidays-json-read-into-pandas
-
+print("\n" + "="*50 + "\n")
 
 ## Part 2: A modified program that prints the bank holidays that are unique to Northern Ireland
 
@@ -36,15 +38,26 @@ scotland_events = data["scotland"]["events"]
 england_titles = {event["title"] for event in england_events}
 scotland_titles = {event["title"] for event in scotland_events}
 
-# Finally,we'll check each Northern Ireland holiday
+# Finally, we'll check each Northern Ireland holiday
+# Using a set to track unique titles we've already printed
+printed_titles = set()
+
+print("Holidays Exclusive to Northern Ireland:")
 for event in ni_events:
     holiday_title = event["title"]
 
-    # And we'll makesure that the title is NOT found in England/Wales and Scotland sets
+    # And we'll make sure that the title is NOT found in England/Wales and Scotland sets
+    # Also check if we haven't already printed this title
     if holiday_title not in england_titles and holiday_title not in scotland_titles:
-        print(f"Exclusive to NI: {holiday_title} on {event['date']}")
+        if holiday_title not in printed_titles:
+            # Convert date from YYYY-MM-DD to DD-MM-YYYY
+            date_parts = event['date'].split('-')
+            formatted_date = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]}"
+            print(f"{holiday_title}")
+            printed_titles.add(holiday_title)
+        
 
-print ("Bank holidays unique to Northern Ireland:")
-
-# Source: https://stackoverflow.com/questions/6981717/pythonic-way-to-combine-for-loop-and-if-statement
-# Source: https://www.geeksforgeeks.org/python/python-holidays-library/ 
+# Source: PFDA3.1 Class Video 
+# Source: https://www.geeksforgeeks.org/python/python-holidays-library/ (Using holidays library to get bank holidays)
+# Source: https://stackoverflow.com/questions/54987115/uk-bank-holidays-json-read-into-pandas (Reading JSON into pandas)
+# Source: https://stackoverflow.com/questions/6981717/pythonic-way-to-combine-for-loop-and-if-statement (Combining for loop and if statement)
