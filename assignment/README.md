@@ -77,7 +77,7 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 🎯 Part 3: Identify region with largest sex-based population difference, focus on specified age group from Part 2, regional comparison across Ireland
 
-![Population Distribution in Ireland by Age and Sex](image.png)
+![Population Distribution in Ireland by Age and Sex](plots/image.png)
 
 
 #### 📊 **Analytical Methods:**
@@ -105,7 +105,7 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 🌐 **Data Source:** [Knock Airport Weather](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv)
 
-![Average Monthly and Yearly Temperature at Knock Airport](averagemonthlytemp.png)
+![Average Monthly and Yearly Temperature at Knock Airport](plots/averagemonthlytemp.png)
 
 
 #### 📊 Analytical Methods:
