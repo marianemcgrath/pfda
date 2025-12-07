@@ -39,7 +39,7 @@ scotland_events = data["scotland"]["events"]
 england_titles = {event["title"] for event in england_events}
 scotland_titles = {event["title"] for event in scotland_events}
 
-# Finally, we'll check each Northern Ireland holiday
+# Also, we'll check each Northern Ireland holiday
 # Using a set to track unique titles we've already printed
 print_titles = set()
 
@@ -47,7 +47,7 @@ print("Holidays Exclusive to Northern Ireland:")
 for event in ni_events:
     holiday_title = event["title"]
 
-    # And we'll make sure that the title is NOT found in England/Wales and Scotland sets
+    # Finally, we'll make sure that the title is NOT found in England/Wales and Scotland sets
     if holiday_title not in england_titles and holiday_title not in scotland_titles:
         if holiday_title not in print_titles:
             date_parts = event['date'].split('-') # Convert date from YYYY-MM-DD to DD-MM-YYYY
