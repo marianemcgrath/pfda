@@ -26,7 +26,7 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 ### 🎉 Assignment: Bank Holidays
 
-**File:** `assignment01_bankholidays.py`
+**File:** `assignment02_bankholidays.py`
 
 **🎯 Objectives:**
 
