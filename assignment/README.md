@@ -34,9 +34,6 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 *   **Advanced Task:**  Identify holidays which are unique to Northern Ireland
 
-#### 🔧 Key Features:
-*   Retrieves and processes data
-*   Filters unique Northern Ireland holidays
 
 [Go to Assignment: Bank Holidays](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment02_bankholidays.py)
 
@@ -50,17 +47,9 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 *   **Data Source:** [1000 Email Addresses](https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download)
 
-#### 📊 **Analytical Methods:**
-
-*   Data loading from cloud sources
-
-*   Pandas data manipulation
-
-*   Matplotlib/Seaborn visualisation - pie chart design
-
-*   Data cleaning and preprocessing
 
 ![Email Domain Pie Chart](plots/email_domain_pie.png)
+
 
 [Go to Assignment: Email Domains](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment03_pie_redo.ipynb)
 
@@ -80,17 +69,8 @@ This repository contains four distinct data analysis projects demonstrating skil
 🎯 Part 3: Identify region with largest sex-based population difference, focus on specified age group from Part 2, regional comparison across Ireland
 
 
-#### 📊 **Analytical Methods:**
-
-*   Statistical aggregation
-
-*   Age group binning
-
-*   Comparative analysis
-
-*   Regional segmentation
-
 ![Population Distribution in Ireland by Age and Sex](plots/pop_distribution.png)
+
 
 [Go to Assignment: Population Insights](https://github.com/marianemcgrath/pfda/blob/main/assignment/assignment05_population.ipynb)
 
@@ -106,17 +86,6 @@ This repository contains four distinct data analysis projects demonstrating skil
 *   📈 Part 2: Windspeed visualisation (handling missing data), 24-hour rolling average windspeed, daily maximum windspeed, monthly mean of daily maximum windspeeds
 
 🌐 **Data Source:** [Knock Airport Weather](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv)
-
-
-#### 📊 Analytical Methods:
-
--   Missing data handling and formatting
-
--   Time series resampling
-
--   Rolling statistics calculation
-
--   Multi-plot visualisation
 
 ![Average Monthly and Yearly Temperature at Knock Airport](plots/averagemonthlytemp.png)
 
