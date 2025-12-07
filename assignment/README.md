@@ -19,7 +19,7 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 3. **Install your tools:**
 
--   pip install pandas numpy matplotlib seaborn scipy jupyter
+-   Check requirements.txt file
 
 
 ## In the folder, you will find...
@@ -139,17 +139,25 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 ## **References:**
 
-The main sources used were: 
+**The main sources used were:**
 
 [GeeksforGeeks] (https://www.geeksforgeeks.org/)
+
 [Stack Overflow*](https://stackoverflow.com/)
+
 [W3Schools] (https://www.w3schools.com/)
+
 [Pandas Documentation](https://pandas.pydata.org/docs/)
+
 [Real Python](https://realpython.com/)
+
 [DataCamp] (https://www.datacamp.com/)
 
 All code in the assignment folder has been referenced and including AI prompts when required.
-**Population distribution graph was created by the author of this project (because I really, wanted to, and used it as my Christmas wish). Using [Stack Overflow](https://stackoverflow.com/questions/63619776/population-pyramid-with-python-and-seaborn_), [Medium](https://maciejtarsa.medium.com/plotting-a-population-pyramid-in-python-52be034968b0), [CodersColumn](https://coderzcolumn.com/tutorials/data-science/population-pyramid-chart-using-matplotlib) and beautified with the help of Claude AI.
+
+**Population distribution graph was created by the author of this project (because I really wanted to create a pyramid plot, and used it as my Christmas wish!).
+
+Using [Stack Overflow](https://stackoverflow.com/questions/63619776/population-pyramid-with-python-and-seaborn_), [Medium](https://maciejtarsa.medium.com/plotting-a-population-pyramid-in-python-52be034968b0), [CodersColumn](https://coderzcolumn.com/tutorials/data-science/population-pyramid-chart-using-matplotlib) and beautified with the help of Claude AI.
 
 ---
 

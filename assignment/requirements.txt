@@ -1,6 +1,7 @@
+datetime
+requests
 pandas
 numpy
 matplotlib
+matplotlib.pyplot
 seaborn
-datetime
-requests
