@@ -14,12 +14,7 @@ A data analysis project exploring e-commerce consumer behavior, purchase pattern
 ## 📁 Project Structure
 
 ecommerce-analysis/
-├── data/ # Dataset files (CSV/Excel)
-├── notebooks/ # Jupyter notebooks with analysis
-├── scripts/ # Python scripts
-├── reports/ # Generated reports and visualizations
-├── README.md # This file
-└── requirements.txt # Python dependencies
+
 
 
 ## 🚀 Quick Start
@@ -67,7 +62,7 @@ python scripts/main_analysis.py
 
 📊 Dataset Information
 
-Source: [Dunnhumby](https://www.dunnhumby.com/source-files/#:~:text=A%20TIME%20SERIES,at%20the%20Frat)
+Source: 
 
 
 
@@ -123,7 +118,7 @@ Source: [Dunnhumby](https://www.dunnhumby.com/source-files/#:~:text=A%20TIME%20S
 
 🤝 Acknowledgments
 
-Dataset provided by [Dunnhumby](Available at https://www.dunnhumby.com/source-files/)
+Dataset provided by [Kaggle](Available at https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
 
 📄 License
