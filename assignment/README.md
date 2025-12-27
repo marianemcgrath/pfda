@@ -122,7 +122,7 @@ This repository contains four distinct data analysis projects demonstrating skil
 
 [DataCamp](https://www.datacamp.com/)
 
-All code in the assignment folder has been referenced and including AI prompts when required.
+All code in the assignment folder has been referenced and includes AI prompts when required.
 
 **Population distribution graph was created by the author of this project (because I really wanted to create a pyramid plot, and used that as my Christmas wish!).
 
