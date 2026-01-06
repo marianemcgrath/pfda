@@ -1,7 +1,10 @@
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 geonamescache 
-from datetime 
-plotly.express 
+datetime 
 seaborn
+plotly
+sklearn
+geopy
+geonamescache
