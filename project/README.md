@@ -78,6 +78,8 @@ The dataset used in this project is the *E-Commerce Consumer Behaviour Analysis 
 
      * Random Forest Regression (non-linear comparison)
 
+![Relative Importance of Predictors(Random Forest)](https://github.com/marianemcgrath/pfda/blob/main/project/plots/random_forest_feature_importance.png)
+
  * 📈 Strategic insights for marketing and customer segmentation
 
  * ⚠️ Research limitations and assumptions
