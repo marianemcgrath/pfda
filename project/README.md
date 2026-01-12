@@ -6,7 +6,7 @@ The project follows data analysis — from raw data to cleaned insights and stra
 
 ## **Project Overview**
 
-Customer analytics refers to the systematic analysis of customer data to understand consumer needs, preferences, and behaviours. According to [IBM](https://www.ibm.com/think/topics/customer-analytics), customer analytics enables organisations to leverage data to inform decision-making across functions such as marketing, product development, and customer experience design. By analysing customer interactions and behavioural patterns, businesses can improve engagement, increase sales, and foster long-term customer loyalty.
+[Customer/ Consumer Analytics](https://www.ibm.com/think/topics/customer-analytics) enables organisations to leverage data to inform decision-making across functions such as marketing, product development, and customer experience design. By analysing customer interactions and behavioural patterns, businesses can improve engagement, increase sales, and foster long-term customer loyalty.
 
 In an increasingly competitive digital marketplace, customer analytics plays a critical role in enabling organisations to make smarter, faster, and more informed decisions. Data derived from purchase history, demographic profiles, and customer feedback allows businesses to identify what drives value, personalise marketing efforts, and prioritise retention strategies. These insights support the development of more relevant products, more effective advertising campaigns, and improved customer experiences, ultimately contributing to sustained profitability and competitive advantage.
 
@@ -101,6 +101,8 @@ The dataset used in this project is the *E-Commerce Consumer Behaviour Analysis 
 
     * Support segmentation and targeting decisions
 
+
+
  ## 📌 **Key Insights**
 
  * The customer base is predominantly young to middle-aged (average age ≈ 34).
@@ -115,6 +117,9 @@ The dataset used in this project is the *E-Commerce Consumer Behaviour Analysis 
 
  * Seasonal patterns show revenue peaks in spring and summer.
 
+ *Full insights and references are documented in **Section 7** of the notebook.*
+
+
 ## ⚠️ **Limitations (Summary)**
 
  * Partial geographic coverage due to offline city-to-country mapping
@@ -128,6 +133,7 @@ The dataset used in this project is the *E-Commerce Consumer Behaviour Analysis 
  * Results should be interpreted within scope
 
 *Full limitations and references are documented in **Section 8** of the notebook.*
+
 
 ## 🛠️Tools & Technologies
 
