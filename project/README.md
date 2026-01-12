@@ -46,6 +46,28 @@ The dataset used in this project is the *Customer Shopping Trends Dataset*, obta
 
  * 📊 Exploratory Data Analysis (EDA)
 
+ The following visualisations highlight key findings from the exploratory data analysis.
+
+ **Customer Demographics – Age Distribution**
+
+ ![Age Group Distribution](https://github.com/marianemcgrath/pfda/blob/main/project/plots/age_group_distribution.png)
+
+ **Product Category Performance**
+
+![Product Category Performance](https://github.com/marianemcgrath/pfda/blob/main/project/plots/purchase_category_revenue.png)
+
+ **Device Usage & Social Media Influence**
+
+![Device Usage & Social Media Influence](https://github.com/marianemcgrath/pfda/blob/main/project/plots/social_media_influence_by_device.png)
+
+ **Geographic Revenue Concentration**
+
+![Geographic Revenue Concentration](https://github.com/marianemcgrath/pfda/blob/main/project/plots/purchase_amount_by_country.png)
+
+ **Seasonal Purchasing Trends**
+
+![Seasonal Purchasing Trends](https://github.com/marianemcgrath/pfda/blob/main/project/plots/total_revenue_by_month.png)
+
  * 🌍 Geographic analysis using offline city-to-country mapping
 
  * 🗄️ SQL database creation and querying (SQLite)
@@ -77,7 +99,7 @@ The dataset used in this project is the *Customer Shopping Trends Dataset*, obta
 
     * Support segmentation and targeting decisions
 
- ## 📌 **Key EDA Insights**
+ ## 📌 **Key Insights**
 
  * The customer base is predominantly young to middle-aged (average age ≈ 34).
 
