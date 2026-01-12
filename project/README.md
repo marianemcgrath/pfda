@@ -37,6 +37,7 @@ The primary objectives of this project are to:
 
 The dataset used in this project is the *Customer Shopping Trends Dataset*, obtained from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset). It contains customer-level data including demographic attributes, purchasing behaviour, engagement metrics, and satisfaction indicators.
 
+
 ## **🔍 What’s Covered in the Analysis?**
 
  * 📥 Data acquisition and inspection
@@ -143,7 +144,7 @@ The dataset used in this project is the *Customer Shopping Trends Dataset*, obta
 
 #### 👩‍💻 **About the Analyst:**
 
-**Mariane McGrath**
+Future data analyst with a marketing background, interested in customer analytics, exploratory data analysis, SQL, and using Python to turn real-world data into actionable insights.
 
 [Email](marianemcgrath@gmail.com)
 
@@ -159,4 +160,4 @@ This project was completed as part of the *Programming for Data Analysis* module
 
 ☕ **Final Note**
 
-This README was brought to you by a Frankeinstein of AI suggestions (ChatGPT, DeepSeek & Grok), a looming deadline, 567 cups of coffee, 4 all-nighters and the haunting fear that someone might read all this.
+This README was brought to you by a "Frankeinstein" of several AI suggestions (ChatGPT, DeepSeek & Grok), a looming deadline, 567 cups of coffee, 4 all-nighters and the haunting fear that this repo is public.

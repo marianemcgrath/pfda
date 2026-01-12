@@ -2,7 +2,6 @@ pandas
 matplotlib
 numpy
 geonamescache 
-datetime 
 seaborn
 plotly
-sklearn
+scikit-learn
