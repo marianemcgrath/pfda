@@ -35,7 +35,7 @@ The primary objectives of this project are to:
 
  ### **Data Source:**
 
-The dataset used in this project is the *Customer Shopping Trends Dataset*, obtained from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset). It contains customer-level data including demographic attributes, purchasing behaviour, engagement metrics, and satisfaction indicators.
+The dataset used in this project is the *E-Commerce Consumer Behaviour Analysis Data*, obtained from [Kaggle](https://www.kaggle.com/datasets/syedamiralam/ecommerce-consumer-behavior-analysis-data). It contains customer-level data including demographic attributes, purchasing behaviour, engagement metrics, and satisfaction indicators.
 
 
 ## **🔍 What’s Covered in the Analysis?**
@@ -48,7 +48,7 @@ The dataset used in this project is the *Customer Shopping Trends Dataset*, obta
 
  The following visualisations highlight key findings from the exploratory data analysis.
 
- **Customer Demographics – Age Distribution**
+ **Age Distribution**
 
  ![Age Group Distribution](https://github.com/marianemcgrath/pfda/blob/main/project/plots/age_group_distribution.png)
 
@@ -166,7 +166,7 @@ The dataset used in this project is the *Customer Shopping Trends Dataset*, obta
 
 #### 👩‍💻 **About the Analyst:**
 
-Future data analyst with a marketing background, interested in customer analytics, exploratory data analysis, SQL, and using Python to turn real-world data into actionable insights.
+Aspiring data analyst with a marketing background, interested in customer analytics, exploratory data analysis, SQL, and using Python to turn real-world data into actionable insights.
 
 [Email](marianemcgrath@gmail.com)
 
@@ -182,4 +182,4 @@ This project was completed as part of the *Programming for Data Analysis* module
 
 ☕ **Final Note**
 
-This README was brought to you by a "Frankeinstein" of several AI suggestions (ChatGPT, DeepSeek & Grok), a looming deadline, 567 cups of coffee, 4 all-nighters and the haunting fear that this repo is public.
+This README was brought to you by a "Frankenstein" of several AI suggestions (ChatGPT, DeepSeek & Grok), a looming deadline, 567 cups of coffee, 4 all-nighters and the haunting fear that this repo is public.
